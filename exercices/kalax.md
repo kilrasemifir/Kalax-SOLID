@@ -53,7 +53,7 @@ Vous venez de faire de la ségrégation d'interface en respectant le principe de r
 unique.
 
 ### Exercice 2 : Implementation de Kalax
-Créer une classe meuble kalax 4x2:
+Créer une classe meuble kalax 4x2 :
 * c'est une meuble kalax
 * il possède 4 emplacements
 * il fait 35 cm de profondeur
